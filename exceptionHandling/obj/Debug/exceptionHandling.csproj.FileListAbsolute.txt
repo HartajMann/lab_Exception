@@ -1,0 +1,8 @@
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe.config
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\bin\Debug\exceptionHandling.pdb
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.exe
+C:\Users\Harthaj\Documents\sait-sem2\oops_2\exceptionHandling\exceptionHandling\obj\Debug\exceptionHandling.pdb
