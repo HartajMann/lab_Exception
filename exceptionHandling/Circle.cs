@@ -27,6 +27,11 @@ namespace exceptionHandling
                 {
                     radius = value;
                 }
+                else if(value==0)
+                {
+                    throw new InvalidRadiusException("Radius Cannot be zero");
+
+                }
                 else
                 {
                     throw new InvalidRadiusException(value);
@@ -40,4 +45,5 @@ namespace exceptionHandling
         }
     }
 }
+
 
